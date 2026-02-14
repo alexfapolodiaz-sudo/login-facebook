@@ -1,5 +1,3 @@
 git add .
-git commit -m "login facebook"
-git branch -M main
-git remote add origin https://github.com/TUUSUARIO/login-facebook.git
-git push -u origin main
+git commit -m "agregar app facebook"
+git push
